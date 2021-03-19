@@ -6,5 +6,6 @@
         <page name='A3_ Disposables'/>
         <page name='A4_Subject_Relay'/>
         <page name='A5_Operators_Create'/>
+        <page name='A6_Operators_Filter'/>
     </pages>
 </playground>
