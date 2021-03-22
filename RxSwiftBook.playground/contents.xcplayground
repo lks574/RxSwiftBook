@@ -7,5 +7,6 @@
         <page name='A4_Subject_Relay'/>
         <page name='A5_Operators_Create'/>
         <page name='A6_Operators_Filter'/>
+        <page name='A7_Operators_Transforming'/>
     </pages>
 </playground>
